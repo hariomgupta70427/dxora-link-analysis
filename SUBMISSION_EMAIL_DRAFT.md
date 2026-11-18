@@ -11,9 +11,9 @@ Please find my submission for the Python Practical Test — AI-Powered
 Website Link Analysis API.
 
 - **Full name:** Hariom Gupta
-- **Demo Link:** [PASTE DEPLOYED URL HERE — e.g. https://dxora-link-analysis.onrender.com]
-- **API documentation:** [PASTE DEPLOYED URL HERE]/docs
-- **Public GitHub Repository:** [PASTE REPO URL HERE — e.g. https://github.com/hariomgupta70427/dxora-link-analysis]
+- **Demo Link:** https://dxora-link-analysis-ht3x.onrender.com
+- **API documentation:** https://dxora-link-analysis-ht3x.onrender.com/docs
+- **Public GitHub Repository:** https://github.com/hariomgupta70427/dxora-link-analysis
 - **Contact Number:** +91 9315175199
 - **Current Location:** New Delhi, India
 - **Preferred Date and Time for Final Discussion:** [FILL IN — fresh date/time; the 18 Nov after-8 PM slot was for the first test and no longer applies]
