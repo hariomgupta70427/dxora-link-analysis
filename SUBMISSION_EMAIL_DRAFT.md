@@ -16,7 +16,7 @@ Website Link Analysis API.
 - **Public GitHub Repository:** https://github.com/hariomgupta70427/dxora-link-analysis
 - **Contact Number:** +91 9315175199
 - **Current Location:** New Delhi, India
-- **Preferred Date and Time for Final Discussion:** [FILL IN — fresh date/time; the 18 Nov after-8 PM slot was for the first test and no longer applies]
+- **Preferred Date and Time for Final Discussion:** Anytime on Sunday, 22 November 2026 — I am available all day, happy to take any time that suits the panel.
 
 **About the implementation**
 
