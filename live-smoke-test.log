@@ -1,0 +1,26 @@
+=== Live smoke test — 2026-11-18 15:08 UTC ===
+Target: https://hariomgupta.vercel.app/
+
+HTTP 200 in 62.956509s
+
+real	1m2.968s
+user	0m0.006s
+sys	0m0.009s
+
+=== Response summary ===
+success: True
+website: https://hariomgupta.vercel.app/
+brand: {'name': 'Hariom Gupta', 'category': 'Flutter & Full-Stack Developer', 'summary': 'B.Tech IT student at GGSIPU building AI-powered mobile apps and web platforms. Smart India Hackathon participant. Available for freelance projects.'}
+competitors: 3 | strengths: 4 | opportunities: 4
+queries: 5
+services: 5
+meta: {'provider': 'NVIDIA', 'model': 'nvidia/nemotron-3-ultra-550b-a55b', 'latency_ms': 61565, 'prompt_tokens': 1716, 'completion_tokens': 2563, 'estimated_cost_usd': 0.0, 'mock': False}
+first query: {'query': 'Flutter freelance developer New Delhi', 'platforms': ['Google', 'LinkedIn'], 'intent': 'Find a freelance Flutter developer for a mobile app project', 'relevance': 'High', 'audience': 'Startup founders and product managers'}
+first service: {'name': 'Custom Full-Stack Web & Mobile Development', 'description': 'End-to-end delivery of web and mobile applications tailored to client requirements.', 'industry': 'Software Development', 'customer': 'Startups, SMEs, Enterprises', 'benefit': 'Single point of contact for both front-end and back-end, faster time-to-market.', 'source': 'website_content'}
+
+=== Second smoke test — 2026-11-18 15:10 UTC ===
+Target: https://example.com (thin content edge case)
+HTTP 200 in 31.95s
+success: true | brand: Example Domain / Documentation Example
+competitors: 3 | queries: 5 | services: 5
+meta: NVIDIA nemotron-3-ultra-550b-a55b, latency 30871ms, prompt 451 tokens, completion 1715 tokens, cost $0.00
